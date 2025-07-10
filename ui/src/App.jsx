@@ -22,7 +22,7 @@
 
         localStorage.setItem("token", response.data.token);
         localStorage.setItem("name", response.data.name);
-           localStorage.setItem("email", response.data.email);
+        localStorage.setItem("email", response.data.email);
         localStorage.setItem("password", response.data.password);
         localStorage.setItem("contact", response.data.contact);
         localStorage.setItem("info", user.info);
