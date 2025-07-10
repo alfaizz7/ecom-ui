@@ -1,0 +1,16 @@
+h2{
+  
+  color: rgb(16, 16, 16);
+
+}
+div{
+  margin-left: 40%;
+  margin-top: 15%;
+  width: 100px;
+  height: 10px;
+
+  background: linear-gradient(120deg,#1B56FD,#4ED7F1);
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
